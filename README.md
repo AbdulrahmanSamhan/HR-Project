@@ -4,13 +4,6 @@
 
 ### Transforming raw HR data into actionable workforce insights
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2E7D32?style=for-the-badge)
-![HR Analytics](https://img.shields.io/badge/HR%20Analytics-C62828?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -74,9 +67,6 @@ Built an interactive Power BI dashboard to analyze HR data from different perspe
 
 > 📸 **Screenshots:** add your dashboard images to an `images/` folder and reference them like this:
 >
-> ```md
-> ![Overview Page](images/overview.png)
-> ```
 
 ---
 
@@ -258,8 +248,8 @@ The dashboard provides a centralized view of workforce data and helps HR teams:
 **Abdulrahman Samhan**
 Data Analyst | Student at Assiut University
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+[![GitHub](https://github.com/AbdulrahmanSamhan)
+[![LinkedIn](https://www.linkedin.com/in/abdulrahman-samhan%E2%80%AC%E2%80%8F-7336a0277/)
 
 ---
 
